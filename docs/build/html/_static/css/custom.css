@@ -1,0 +1,9 @@
+.rst-content .section ol li>*, .rst-content .section ul li>*, .rst-content .toctree-wrapper ol li>*, .rst-content .toctree-wrapper ul li>*, .rst-content section ol li>*, .rst-content section ul li>*{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+/* .toctree-l2{
+    margin-top: 5px;
+    margin-bottom: 5px;
+} */
